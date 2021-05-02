@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I have no idea what to put here yet. Just doing this for tutorial's sake.
